@@ -1,0 +1,10 @@
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.lock.hcl
+*.backup
+
+FirstSEGMENT
+object/__pycache__
